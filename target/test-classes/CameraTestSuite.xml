@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SuiteTest">
+	<test name="Camera Test">
+		<classes>
+			<class name="com.cameratest.appium.pom.Test_CameraTest"></class>
+		</classes>
+	</test>
+</suite> 
