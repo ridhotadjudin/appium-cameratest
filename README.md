@@ -210,3 +210,11 @@ start extent.html
 
 - 🌐 Website: [ridhotadjudin.id](https://ridhotadjudin.id)
 - 💻 GitHub: [@ridhotadjudin](https://github.com/ridhotadjudin)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
