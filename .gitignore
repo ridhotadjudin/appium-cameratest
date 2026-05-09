@@ -1,0 +1,22 @@
+# dependencies
+/target/
+
+# test artifacts
+/test-output/
+extent.html
+/hasilSS/
+
+# IDE
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+
+# Java
+*.class
+*.jar
+*.war
+
+# misc
+.DS_Store
